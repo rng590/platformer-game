@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9782911a5c186b74990522ba907f31ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97576
+  packageName: Empty At Zero Creator
+  packageVersion: 1.1.1
+  assetPath: Assets/Empty At Zero Creator/Scripts/Editor/EmptyChildAtGlobalZero_Creator.cs
+  uploadId: 225577
